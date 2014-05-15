@@ -8,4 +8,4 @@ $ npm install git://github.com/shoelace-ui/reset-table-cell.git
 
 ## License
 
-[MIT]('./LICENSE')
+[MIT](./LICENSE)
