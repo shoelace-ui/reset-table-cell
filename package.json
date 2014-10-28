@@ -1,25 +1,21 @@
 {
   "name": "shoelace-ui-reset-table-cell",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "reset-table-cell opaque mixin",
-  "main": "index.styl",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "author": "Brannon Lucas",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/shoelace-ui/reset-table-cell"
   },
+  "homepage": "https://github.com/shoelace-ui/reset-table-cell",
   "keywords": [
     "reset",
     "table",
     "cell",
     "shoelace-ui"
   ],
-  "author": "Brannon Lucas",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/shoelace-ui/reset-table-cell/issues"
-  },
-  "homepage": "https://github.com/shoelace-ui/reset-table-cell"
+  }
 }
